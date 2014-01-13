@@ -4,7 +4,8 @@ source 'https://rubygems.org'
 ruby '1.9.3'
 gem 'heroku', '~> 2.32.6'
 gem 'thin'
-
+gem 'execjs'
+gem 'therubyracer'
 
 gem 'rails', '3.2.8'
 
